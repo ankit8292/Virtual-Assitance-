@@ -1,1 +1,1 @@
-# Virtual-Assitance-
+# Virtual-Assitance-This is AI project in which we can done some work by machine through the voice like play the music, open the google, open youtube, something know about any person according to wikipedia, etc.
